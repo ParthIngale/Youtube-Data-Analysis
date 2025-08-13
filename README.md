@@ -73,6 +73,3 @@ The QuickSight dashboard includes:
 - **Format**: JSON & CSV
 - **Size**: ~200 MB
 
----
-
-## 📷 Project Architecture
